@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rvergara-7@hotmail.com
+	name = rodrigo Vergara
